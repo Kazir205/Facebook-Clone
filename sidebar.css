@@ -1,0 +1,11 @@
+.sidebar__left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f2f5;
+}
+
+.sidebar__left {
+    padding: 25px 24px;
+    flex-basis: 30%;
+}
